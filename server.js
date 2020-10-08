@@ -19,7 +19,7 @@ var server = http.createServer(function (request, response) {
   var query = parsedUrl.query;
   var method = request.method;
 
-  /******** 从这里开始看，上面不要看 ************/
+  
 
   console.log("接收到请求！路径（带查询参数）为：" + pathWithQuery);
 
