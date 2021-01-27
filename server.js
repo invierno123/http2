@@ -60,6 +60,6 @@ server.listen(port);
 console.log(
   "监听 " +
     port +
-    " 成功\n请用在空中转体720度然后用电饭煲打开 http://localhost:" +
+    " 成功\n请打开链接 http://localhost:" +
     port
 );
